@@ -1,0 +1,40 @@
+{
+  "data":
+ [
+  {
+    "id": 1,
+    "userName": "Karthik",
+    "jobTitle": "Developer",
+    "organization": "Accenture",
+    "isECurrentEmployee": true
+  },
+  {
+    "id": 2,
+    "userName": "Radha",
+    "jobTitle": "Tester",
+    "organization": "Infosys",
+    "isCurrentEmployee": false
+  },
+  {
+    "id": 3,
+    "userName": "Suresh",
+    "jobTitle": "CloudEngineer",
+    "organization": "Deloitte",
+    "isCurrentEmployee": false
+  },
+  {
+    "id": 4,
+    "userName": "Kiran",
+    "jobTitle": "Architect",
+    "organization": "Accenture",
+    "isCurrentEmployee": true
+  },
+  {
+    "id": 5,
+    "userName": "Vijaya",
+    "jobTitle": "Scrum Master",
+    "organization": "Nasdaq",
+    "isCurrentEmployee": false
+  }
+]
+}
